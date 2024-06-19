@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Batch_june24\\Csharp\\Day_2_3 assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88022D1E-2BED-4C6F-BD0B-58E51B1B7CF3}|Day_2_3 assignment\\Day_2_3 assignment.csproj|c:\\batch_june24\\csharp\\day_2_3 assignment\\day_2_3 assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88022D1E-2BED-4C6F-BD0B-58E51B1B7CF3}|Day_2_3 assignment\\Day_2_3 assignment.csproj|solutionrelative:day_2_3 assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Batch_june24\\Csharp\\Day_2_3 assignment\\Day_2_3 assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Day_2_3 assignment\\Program.cs",
+              "ToolTip": "C:\\Batch_june24\\Csharp\\Day_2_3 assignment\\Day_2_3 assignment\\Program.cs",
+              "RelativeToolTip": "Day_2_3 assignment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:06:59.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

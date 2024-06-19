@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Day_4\Day_4\bin\Debug\Day_4.exe.config
+C:\Batch_june24\Csharp\Day_4\Day_4\bin\Debug\Day_4.exe
+C:\Batch_june24\Csharp\Day_4\Day_4\bin\Debug\Day_4.pdb
+C:\Batch_june24\Csharp\Day_4\Day_4\obj\Debug\Day_4.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Day_4\Day_4\obj\Debug\Day_4.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Day_4\Day_4\obj\Debug\Day_4.exe
+C:\Batch_june24\Csharp\Day_4\Day_4\obj\Debug\Day_4.pdb

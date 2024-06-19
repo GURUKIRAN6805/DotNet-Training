@@ -1,0 +1,2 @@
+C:\Batch_june24\Csharp\Day_3\Day_3\obj\Debug\Day_3.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Day_3\Day_3\obj\Debug\Day_3.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\CCA1\CCA1\bin\Debug\CCA1.exe.config
+C:\Batch_june24\Csharp\CCA1\CCA1\bin\Debug\CCA1.exe
+C:\Batch_june24\Csharp\CCA1\CCA1\bin\Debug\CCA1.pdb
+C:\Batch_june24\Csharp\CCA1\CCA1\obj\Debug\CCA1.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\CCA1\CCA1\obj\Debug\CCA1.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\CCA1\CCA1\obj\Debug\CCA1.exe
+C:\Batch_june24\Csharp\CCA1\CCA1\obj\Debug\CCA1.pdb

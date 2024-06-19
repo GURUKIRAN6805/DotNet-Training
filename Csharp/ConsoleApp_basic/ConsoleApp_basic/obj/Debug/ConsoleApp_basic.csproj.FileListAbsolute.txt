@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\ConsoleApp_basic\ConsoleApp_basic\bin\Debug\ConsoleApp_basic.exe.config
+C:\Batch_june24\Csharp\ConsoleApp_basic\ConsoleApp_basic\bin\Debug\ConsoleApp_basic.exe
+C:\Batch_june24\Csharp\ConsoleApp_basic\ConsoleApp_basic\bin\Debug\ConsoleApp_basic.pdb
+C:\Batch_june24\Csharp\ConsoleApp_basic\ConsoleApp_basic\obj\Debug\ConsoleApp_basic.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\ConsoleApp_basic\ConsoleApp_basic\obj\Debug\ConsoleApp_basic.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\ConsoleApp_basic\ConsoleApp_basic\obj\Debug\ConsoleApp_basic.exe
+C:\Batch_june24\Csharp\ConsoleApp_basic\ConsoleApp_basic\obj\Debug\ConsoleApp_basic.pdb

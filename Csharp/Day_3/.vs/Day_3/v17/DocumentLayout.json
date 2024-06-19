@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Batch_june24\\Csharp\\Day_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23CE9FEC-DE43-4AD0-9680-CF4A2A2D0FE6}|Day_3\\Day_3.csproj|c:\\batch_june24\\csharp\\day_3\\day_3\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CE9FEC-DE43-4AD0-9680-CF4A2A2D0FE6}|Day_3\\Day_3.csproj|solutionrelative:day_3\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CE9FEC-DE43-4AD0-9680-CF4A2A2D0FE6}|Day_3\\Day_3.csproj|C:\\Batch_june24\\Csharp\\Day_3\\day_3\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CE9FEC-DE43-4AD0-9680-CF4A2A2D0FE6}|Day_3\\Day_3.csproj|solutionrelative:day_3\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CE9FEC-DE43-4AD0-9680-CF4A2A2D0FE6}|Day_3\\Day_3.csproj|c:\\batch_june24\\csharp\\day_3\\day_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CE9FEC-DE43-4AD0-9680-CF4A2A2D0FE6}|Day_3\\Day_3.csproj|solutionrelative:day_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CE9FEC-DE43-4AD0-9680-CF4A2A2D0FE6}|Day_3\\Day_3.csproj|c:\\batch_june24\\csharp\\day_3\\day_3\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CE9FEC-DE43-4AD0-9680-CF4A2A2D0FE6}|Day_3\\Day_3.csproj|solutionrelative:day_3\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Batch_june24\\Csharp\\Day_3\\Day_3\\Class3.cs",
+              "RelativeDocumentMoniker": "Day_3\\Class3.cs",
+              "ToolTip": "C:\\Batch_june24\\Csharp\\Day_3\\Day_3\\Class3.cs",
+              "RelativeToolTip": "Day_3\\Class3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:57:40.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class4.cs",
+              "DocumentMoniker": "C:\\Batch_june24\\Csharp\\Day_3\\Day_3\\Class4.cs",
+              "RelativeDocumentMoniker": "Day_3\\Class4.cs",
+              "ToolTip": "C:\\Batch_june24\\Csharp\\Day_3\\Day_3\\Class4.cs",
+              "RelativeToolTip": "Day_3\\Class4.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:13:30.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Batch_june24\\Csharp\\Day_3\\Day_3\\Class2.cs",
+              "RelativeDocumentMoniker": "Day_3\\Class2.cs",
+              "ToolTip": "C:\\Batch_june24\\Csharp\\Day_3\\Day_3\\Class2.cs",
+              "RelativeToolTip": "Day_3\\Class2.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:15:02.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Batch_june24\\Csharp\\Day_3\\Day_3\\Program.cs",
+              "RelativeDocumentMoniker": "Day_3\\Program.cs",
+              "ToolTip": "C:\\Batch_june24\\Csharp\\Day_3\\Day_3\\Program.cs",
+              "RelativeToolTip": "Day_3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:19:13.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Batch_june24\\Csharp\\Day_2_assignment to accept 2 integers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CDBD773-E9B1-4619-A974-AAA586406A56}|Day_2_assignment to accept 2 integers\\Day_2_assignment to accept 2 integers.csproj|c:\\batch_june24\\csharp\\day_2_assignment to accept 2 integers\\day_2_assignment to accept 2 integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CDBD773-E9B1-4619-A974-AAA586406A56}|Day_2_assignment to accept 2 integers\\Day_2_assignment to accept 2 integers.csproj|solutionrelative:day_2_assignment to accept 2 integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Batch_june24\\Csharp\\Day_2_assignment to accept 2 integers\\Day_2_assignment to accept 2 integers\\Program.cs",
+              "RelativeDocumentMoniker": "Day_2_assignment to accept 2 integers\\Program.cs",
+              "ToolTip": "C:\\Batch_june24\\Csharp\\Day_2_assignment to accept 2 integers\\Day_2_assignment to accept 2 integers\\Program.cs",
+              "RelativeToolTip": "Day_2_assignment to accept 2 integers\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:44:39.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

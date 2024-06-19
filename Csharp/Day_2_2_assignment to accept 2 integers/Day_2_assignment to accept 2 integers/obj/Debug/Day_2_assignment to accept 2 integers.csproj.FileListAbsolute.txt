@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Day_2_assignment to accept 2 integers\Day_2_assignment to accept 2 integers\bin\Debug\Day_2_assignment to accept 2 integers.exe.config
+C:\Batch_june24\Csharp\Day_2_assignment to accept 2 integers\Day_2_assignment to accept 2 integers\bin\Debug\Day_2_assignment to accept 2 integers.exe
+C:\Batch_june24\Csharp\Day_2_assignment to accept 2 integers\Day_2_assignment to accept 2 integers\bin\Debug\Day_2_assignment to accept 2 integers.pdb
+C:\Batch_june24\Csharp\Day_2_assignment to accept 2 integers\Day_2_assignment to accept 2 integers\obj\Debug\Day_2_assignment to accept 2 integers.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Day_2_assignment to accept 2 integers\Day_2_assignment to accept 2 integers\obj\Debug\Day_2_assignment to accept 2 integers.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Day_2_assignment to accept 2 integers\Day_2_assignment to accept 2 integers\obj\Debug\Day_2_assignment to accept 2 integers.exe
+C:\Batch_june24\Csharp\Day_2_assignment to accept 2 integers\Day_2_assignment to accept 2 integers\obj\Debug\Day_2_assignment to accept 2 integers.pdb

@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Day_2_assignment_a given number is positive or negative\Day_2_assignment_a given number is positive or negative\bin\Debug\Day_2_assignment_a given number is positive or negative.exe.config
+C:\Batch_june24\Csharp\Day_2_assignment_a given number is positive or negative\Day_2_assignment_a given number is positive or negative\bin\Debug\Day_2_assignment_a given number is positive or negative.exe
+C:\Batch_june24\Csharp\Day_2_assignment_a given number is positive or negative\Day_2_assignment_a given number is positive or negative\bin\Debug\Day_2_assignment_a given number is positive or negative.pdb
+C:\Batch_june24\Csharp\Day_2_assignment_a given number is positive or negative\Day_2_assignment_a given number is positive or negative\obj\Debug\Day_2_assignment_a given number is positive or negative.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Day_2_assignment_a given number is positive or negative\Day_2_assignment_a given number is positive or negative\obj\Debug\Day_2_assignment_a given number is positive or negative.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Day_2_assignment_a given number is positive or negative\Day_2_assignment_a given number is positive or negative\obj\Debug\Day_2_assignment_a given number is positive or negative.exe
+C:\Batch_june24\Csharp\Day_2_assignment_a given number is positive or negative\Day_2_assignment_a given number is positive or negative\obj\Debug\Day_2_assignment_a given number is positive or negative.pdb

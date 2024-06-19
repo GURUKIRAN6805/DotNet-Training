@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Name and age\Name and age\bin\Debug\Name and age.exe.config
+C:\Batch_june24\Csharp\Name and age\Name and age\bin\Debug\Name and age.exe
+C:\Batch_june24\Csharp\Name and age\Name and age\bin\Debug\Name and age.pdb
+C:\Batch_june24\Csharp\Name and age\Name and age\obj\Debug\Name and age.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Name and age\Name and age\obj\Debug\Name and age.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Name and age\Name and age\obj\Debug\Name and age.exe
+C:\Batch_june24\Csharp\Name and age\Name and age\obj\Debug\Name and age.pdb
