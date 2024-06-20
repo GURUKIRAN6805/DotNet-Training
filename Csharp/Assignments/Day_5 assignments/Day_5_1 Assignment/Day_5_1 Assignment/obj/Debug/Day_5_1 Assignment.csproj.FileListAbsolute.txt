@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Assignments\Day_5 assignments\Day_5_1 Assignment\Day_5_1 Assignment\bin\Debug\Day_5_1 Assignment.exe.config
+C:\Batch_june24\Csharp\Assignments\Day_5 assignments\Day_5_1 Assignment\Day_5_1 Assignment\bin\Debug\Day_5_1 Assignment.exe
+C:\Batch_june24\Csharp\Assignments\Day_5 assignments\Day_5_1 Assignment\Day_5_1 Assignment\bin\Debug\Day_5_1 Assignment.pdb
+C:\Batch_june24\Csharp\Assignments\Day_5 assignments\Day_5_1 Assignment\Day_5_1 Assignment\obj\Debug\Day_5_1 Assignment.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Assignments\Day_5 assignments\Day_5_1 Assignment\Day_5_1 Assignment\obj\Debug\Day_5_1 Assignment.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Assignments\Day_5 assignments\Day_5_1 Assignment\Day_5_1 Assignment\obj\Debug\Day_5_1 Assignment.exe
+C:\Batch_june24\Csharp\Assignments\Day_5 assignments\Day_5_1 Assignment\Day_5_1 Assignment\obj\Debug\Day_5_1 Assignment.pdb
