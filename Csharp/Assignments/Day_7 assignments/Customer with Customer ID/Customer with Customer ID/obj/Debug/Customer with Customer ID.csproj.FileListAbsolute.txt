@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Assignments\Day_7 assignments\Customer with Customer ID\Customer with Customer ID\bin\Debug\Customer with Customer ID.exe.config
+C:\Batch_june24\Csharp\Assignments\Day_7 assignments\Customer with Customer ID\Customer with Customer ID\bin\Debug\Customer with Customer ID.exe
+C:\Batch_june24\Csharp\Assignments\Day_7 assignments\Customer with Customer ID\Customer with Customer ID\bin\Debug\Customer with Customer ID.pdb
+C:\Batch_june24\Csharp\Assignments\Day_7 assignments\Customer with Customer ID\Customer with Customer ID\obj\Debug\Customer with Customer ID.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Assignments\Day_7 assignments\Customer with Customer ID\Customer with Customer ID\obj\Debug\Customer with Customer ID.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Assignments\Day_7 assignments\Customer with Customer ID\Customer with Customer ID\obj\Debug\Customer with Customer ID.exe
+C:\Batch_june24\Csharp\Assignments\Day_7 assignments\Customer with Customer ID\Customer with Customer ID\obj\Debug\Customer with Customer ID.pdb

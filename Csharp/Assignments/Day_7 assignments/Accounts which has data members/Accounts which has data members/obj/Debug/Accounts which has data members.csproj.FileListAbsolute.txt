@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Assignments\Day_7 assignments\Accounts which has data members\Accounts which has data members\bin\Debug\Accounts which has data members.exe.config
+C:\Batch_june24\Csharp\Assignments\Day_7 assignments\Accounts which has data members\Accounts which has data members\bin\Debug\Accounts which has data members.exe
+C:\Batch_june24\Csharp\Assignments\Day_7 assignments\Accounts which has data members\Accounts which has data members\bin\Debug\Accounts which has data members.pdb
+C:\Batch_june24\Csharp\Assignments\Day_7 assignments\Accounts which has data members\Accounts which has data members\obj\Debug\Accounts which has data members.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Assignments\Day_7 assignments\Accounts which has data members\Accounts which has data members\obj\Debug\Accounts which has data members.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Assignments\Day_7 assignments\Accounts which has data members\Accounts which has data members\obj\Debug\Accounts which has data members.exe
+C:\Batch_june24\Csharp\Assignments\Day_7 assignments\Accounts which has data members\Accounts which has data members\obj\Debug\Accounts which has data members.pdb
