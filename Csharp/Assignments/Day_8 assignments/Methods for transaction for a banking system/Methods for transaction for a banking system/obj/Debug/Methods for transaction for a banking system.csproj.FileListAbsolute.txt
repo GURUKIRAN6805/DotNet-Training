@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Methods for transaction for a banking system\Methods for transaction for a banking system\bin\Debug\Methods for transaction for a banking system.exe.config
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Methods for transaction for a banking system\Methods for transaction for a banking system\bin\Debug\Methods for transaction for a banking system.exe
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Methods for transaction for a banking system\Methods for transaction for a banking system\bin\Debug\Methods for transaction for a banking system.pdb
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Methods for transaction for a banking system\Methods for transaction for a banking system\obj\Debug\Methods for transaction for a banking system.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Methods for transaction for a banking system\Methods for transaction for a banking system\obj\Debug\Methods for transaction for a banking system.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Methods for transaction for a banking system\Methods for transaction for a banking system\obj\Debug\Methods for transaction for a banking system.exe
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Methods for transaction for a banking system\Methods for transaction for a banking system\obj\Debug\Methods for transaction for a banking system.pdb

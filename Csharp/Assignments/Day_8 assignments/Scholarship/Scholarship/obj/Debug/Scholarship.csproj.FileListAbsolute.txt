@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Scholarship\Scholarship\bin\Debug\Scholarship.exe.config
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Scholarship\Scholarship\bin\Debug\Scholarship.exe
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Scholarship\Scholarship\bin\Debug\Scholarship.pdb
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Scholarship\Scholarship\obj\Debug\Scholarship.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Scholarship\Scholarship\obj\Debug\Scholarship.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Scholarship\Scholarship\obj\Debug\Scholarship.exe
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Scholarship\Scholarship\obj\Debug\Scholarship.pdb

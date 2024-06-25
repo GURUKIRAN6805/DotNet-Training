@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\To accepts two  Strings\To accepts two  Strings\bin\Debug\To accepts two  Strings.exe.config
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\To accepts two  Strings\To accepts two  Strings\bin\Debug\To accepts two  Strings.exe
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\To accepts two  Strings\To accepts two  Strings\bin\Debug\To accepts two  Strings.pdb
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\To accepts two  Strings\To accepts two  Strings\obj\Debug\To accepts two  Strings.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\To accepts two  Strings\To accepts two  Strings\obj\Debug\To accepts two  Strings.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\To accepts two  Strings\To accepts two  Strings\obj\Debug\To accepts two  Strings.exe
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\To accepts two  Strings\To accepts two  Strings\obj\Debug\To accepts two  Strings.pdb

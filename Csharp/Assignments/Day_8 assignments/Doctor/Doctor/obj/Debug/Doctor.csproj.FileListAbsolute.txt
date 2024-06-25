@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Doctor\Doctor\bin\Debug\Doctor.exe.config
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Doctor\Doctor\bin\Debug\Doctor.exe
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Doctor\Doctor\bin\Debug\Doctor.pdb
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Doctor\Doctor\obj\Debug\Doctor.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Doctor\Doctor\obj\Debug\Doctor.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Doctor\Doctor\obj\Debug\Doctor.exe
+C:\Batch_june24\Csharp\Assignments\Day_8 assignments\Doctor\Doctor\obj\Debug\Doctor.pdb
