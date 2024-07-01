@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\IStudent with StudentId\IStudent with StudentId\bin\Debug\IStudent with StudentId.exe.config
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\IStudent with StudentId\IStudent with StudentId\bin\Debug\IStudent with StudentId.exe
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\IStudent with StudentId\IStudent with StudentId\bin\Debug\IStudent with StudentId.pdb
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\IStudent with StudentId\IStudent with StudentId\obj\Debug\IStudent with StudentId.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\IStudent with StudentId\IStudent with StudentId\obj\Debug\IStudent with StudentId.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\IStudent with StudentId\IStudent with StudentId\obj\Debug\IStudent with StudentId.exe
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\IStudent with StudentId\IStudent with StudentId\obj\Debug\IStudent with StudentId.pdb

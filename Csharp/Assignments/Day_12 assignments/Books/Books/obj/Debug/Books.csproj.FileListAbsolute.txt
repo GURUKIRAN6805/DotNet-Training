@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Books\Books\bin\Debug\Books.exe.config
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Books\Books\bin\Debug\Books.exe
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Books\Books\bin\Debug\Books.pdb
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Books\Books\obj\Debug\Books.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Books\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Books\Books\obj\Debug\Books.exe
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Books\Books\obj\Debug\Books.pdb

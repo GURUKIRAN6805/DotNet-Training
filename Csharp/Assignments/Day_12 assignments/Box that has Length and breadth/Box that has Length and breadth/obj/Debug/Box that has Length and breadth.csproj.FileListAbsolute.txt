@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Box that has Length and breadth\Box that has Length and breadth\bin\Debug\Box that has Length and breadth.exe.config
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Box that has Length and breadth\Box that has Length and breadth\bin\Debug\Box that has Length and breadth.exe
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Box that has Length and breadth\Box that has Length and breadth\bin\Debug\Box that has Length and breadth.pdb
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Box that has Length and breadth\Box that has Length and breadth\obj\Debug\Box that has Length and breadth.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Box that has Length and breadth\Box that has Length and breadth\obj\Debug\Box that has Length and breadth.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Box that has Length and breadth\Box that has Length and breadth\obj\Debug\Box that has Length and breadth.exe
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Box that has Length and breadth\Box that has Length and breadth\obj\Debug\Box that has Length and breadth.pdb

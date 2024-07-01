@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Employee class with Empid\Employee class with Empid\bin\Debug\Employee class with Empid.exe.config
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Employee class with Empid\Employee class with Empid\bin\Debug\Employee class with Empid.exe
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Employee class with Empid\Employee class with Empid\bin\Debug\Employee class with Empid.pdb
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Employee class with Empid\Employee class with Empid\obj\Debug\Employee class with Empid.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Employee class with Empid\Employee class with Empid\obj\Debug\Employee class with Empid.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Employee class with Empid\Employee class with Empid\obj\Debug\Employee class with Empid.exe
+C:\Batch_june24\Csharp\Assignments\Day_12 assignments\Employee class with Empid\Employee class with Empid\obj\Debug\Employee class with Empid.pdb
