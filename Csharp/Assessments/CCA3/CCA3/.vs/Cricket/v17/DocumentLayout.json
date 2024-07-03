@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Batch_june24\\Csharp\\Assessments\\CCA3\\Cricket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1710B3E6-1E86-460A-A9DB-5E0F8BCD951D}|Cricket\\Cricket.csproj|c:\\batch_june24\\csharp\\assessments\\cca3\\cricket\\cricket\\box that has length and breadth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1710B3E6-1E86-460A-A9DB-5E0F8BCD951D}|Cricket\\Cricket.csproj|solutionrelative:cricket\\box that has length and breadth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Cricket||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1710B3E6-1E86-460A-A9DB-5E0F8BCD951D}|Cricket\\Cricket.csproj|c:\\batch_june24\\csharp\\assessments\\cca3\\cricket\\cricket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1710B3E6-1E86-460A-A9DB-5E0F8BCD951D}|Cricket\\Cricket.csproj|solutionrelative:cricket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1710B3E6-1E86-460A-A9DB-5E0F8BCD951D}|Cricket\\Cricket.csproj|c:\\batch_june24\\csharp\\assessments\\cca3\\cricket\\cricket\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cricket",
+              "DocumentMoniker": "C:\\Batch_june24\\Csharp\\Assessments\\CCA3\\Cricket\\Cricket\\Cricket.csproj",
+              "RelativeDocumentMoniker": "Cricket\\Cricket.csproj",
+              "ToolTip": "C:\\Batch_june24\\Csharp\\Assessments\\CCA3\\Cricket\\Cricket\\Cricket.csproj",
+              "RelativeToolTip": "Cricket\\Cricket.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-03T07:14:23.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Box that has Length and breadth.cs",
+              "DocumentMoniker": "C:\\Batch_june24\\Csharp\\Assessments\\CCA3\\Cricket\\Cricket\\Box that has Length and breadth.cs",
+              "RelativeDocumentMoniker": "Cricket\\Box that has Length and breadth.cs",
+              "ToolTip": "C:\\Batch_june24\\Csharp\\Assessments\\CCA3\\Cricket\\Cricket\\Box that has Length and breadth.cs",
+              "RelativeToolTip": "Cricket\\Box that has Length and breadth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:01:24.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Batch_june24\\Csharp\\Assessments\\CCA3\\Cricket\\Cricket\\Program.cs",
+              "RelativeDocumentMoniker": "Cricket\\Program.cs",
+              "ToolTip": "C:\\Batch_june24\\Csharp\\Assessments\\CCA3\\Cricket\\Cricket\\Program.cs",
+              "RelativeToolTip": "Cricket\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:52:53.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

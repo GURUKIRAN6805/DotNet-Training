@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Batch_june24\\Csharp\\Assessments\\CCA3\\CCA3\\CCA3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B151B1EA-1F1E-40D6-9D85-105D3BEF467F}|CCA3\\CCA3.csproj|c:\\batch_june24\\csharp\\assessments\\cca3\\cca3\\cca3\\cca3\\box_that_has_length_and_breadth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B151B1EA-1F1E-40D6-9D85-105D3BEF467F}|CCA3\\CCA3.csproj|solutionrelative:cca3\\box_that_has_length_and_breadth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CCA3||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B151B1EA-1F1E-40D6-9D85-105D3BEF467F}|CCA3\\CCA3.csproj|c:\\batch_june24\\csharp\\assessments\\cca3\\cca3\\cca3\\cca3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B151B1EA-1F1E-40D6-9D85-105D3BEF467F}|CCA3\\CCA3.csproj|solutionrelative:cca3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B151B1EA-1F1E-40D6-9D85-105D3BEF467F}|CCA3\\CCA3.csproj|c:\\batch_june24\\csharp\\assessments\\cca3\\cca3\\cca3\\cca3\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CCA3",
+              "DocumentMoniker": "C:\\Batch_june24\\Csharp\\Assessments\\CCA3\\CCA3\\CCA3\\CCA3\\CCA3.csproj",
+              "RelativeDocumentMoniker": "CCA3\\CCA3.csproj",
+              "ToolTip": "C:\\Batch_june24\\Csharp\\Assessments\\CCA3\\CCA3\\CCA3\\CCA3\\CCA3.csproj",
+              "RelativeToolTip": "CCA3\\CCA3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-03T07:26:28.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Box_that_has_Length_and_breadth.cs",
+              "DocumentMoniker": "C:\\Batch_june24\\Csharp\\Assessments\\CCA3\\CCA3\\CCA3\\CCA3\\Box_that_has_Length_and_breadth.cs",
+              "RelativeDocumentMoniker": "CCA3\\Box_that_has_Length_and_breadth.cs",
+              "ToolTip": "C:\\Batch_june24\\Csharp\\Assessments\\CCA3\\CCA3\\CCA3\\CCA3\\Box_that_has_Length_and_breadth.cs",
+              "RelativeToolTip": "CCA3\\Box_that_has_Length_and_breadth.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowB0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:25:42.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Batch_june24\\Csharp\\Assessments\\CCA3\\CCA3\\CCA3\\CCA3\\Program.cs",
+              "RelativeDocumentMoniker": "CCA3\\Program.cs",
+              "ToolTip": "C:\\Batch_june24\\Csharp\\Assessments\\CCA3\\CCA3\\CCA3\\CCA3\\Program.cs",
+              "RelativeToolTip": "CCA3\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:23:01.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

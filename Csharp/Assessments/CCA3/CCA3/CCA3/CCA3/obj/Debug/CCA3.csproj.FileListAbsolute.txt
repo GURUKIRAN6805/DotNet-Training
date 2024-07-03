@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Assessments\CCA3\CCA3\CCA3\CCA3\bin\Debug\CCA3.exe.config
+C:\Batch_june24\Csharp\Assessments\CCA3\CCA3\CCA3\CCA3\bin\Debug\CCA3.exe
+C:\Batch_june24\Csharp\Assessments\CCA3\CCA3\CCA3\CCA3\bin\Debug\CCA3.pdb
+C:\Batch_june24\Csharp\Assessments\CCA3\CCA3\CCA3\CCA3\obj\Debug\CCA3.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Assessments\CCA3\CCA3\CCA3\CCA3\obj\Debug\CCA3.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Assessments\CCA3\CCA3\CCA3\CCA3\obj\Debug\CCA3.exe
+C:\Batch_june24\Csharp\Assessments\CCA3\CCA3\CCA3\CCA3\obj\Debug\CCA3.pdb
