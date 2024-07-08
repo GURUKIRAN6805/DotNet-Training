@@ -1,0 +1,10 @@
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Concession For Travel\Travel Concession\bin\Debug\Travel Concession.exe.config
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Concession For Travel\Travel Concession\bin\Debug\Travel Concession.exe
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Concession For Travel\Travel Concession\bin\Debug\Travel Concession.pdb
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Concession For Travel\Travel Concession\bin\Debug\Concession For Travel.dll
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Concession For Travel\Travel Concession\bin\Debug\Concession For Travel.pdb
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Concession For Travel\Travel Concession\obj\Debug\Travel Concession.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Concession For Travel\Travel Concession\obj\Debug\Travel Concession.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Concession For Travel\Travel Concession\obj\Debug\Travel C.367EEC41.Up2Date
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Concession For Travel\Travel Concession\obj\Debug\Travel Concession.exe
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Concession For Travel\Travel Concession\obj\Debug\Travel Concession.pdb

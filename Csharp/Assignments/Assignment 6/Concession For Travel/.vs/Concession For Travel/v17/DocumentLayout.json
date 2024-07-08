@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Batch_june24\\Csharp\\Assignments\\Assignment 6\\Concession For Travel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44868EAB-4911-4140-A231-DCE3283CA5D3}|Travel Concession\\Travel Concession.csproj|c:\\batch_june24\\csharp\\assignments\\assignment 6\\concession for travel\\travel concession\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44868EAB-4911-4140-A231-DCE3283CA5D3}|Travel Concession\\Travel Concession.csproj|solutionrelative:travel concession\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5735AFD0-AB57-42C4-B0AC-DF8704B0AA13}|Concession For Travel\\Concession For Travel.csproj|c:\\batch_june24\\csharp\\assignments\\assignment 6\\concession for travel\\concession for travel\\travelconcession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5735AFD0-AB57-42C4-B0AC-DF8704B0AA13}|Concession For Travel\\Concession For Travel.csproj|solutionrelative:concession for travel\\travelconcession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Batch_june24\\Csharp\\Assignments\\Assignment 6\\Concession For Travel\\Travel Concession\\Program.cs",
+              "RelativeDocumentMoniker": "Travel Concession\\Program.cs",
+              "ToolTip": "C:\\Batch_june24\\Csharp\\Assignments\\Assignment 6\\Concession For Travel\\Travel Concession\\Program.cs",
+              "RelativeToolTip": "Travel Concession\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:51:18.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TravelConcession.cs",
+              "DocumentMoniker": "C:\\Batch_june24\\Csharp\\Assignments\\Assignment 6\\Concession For Travel\\Concession For Travel\\TravelConcession.cs",
+              "RelativeDocumentMoniker": "Concession For Travel\\TravelConcession.cs",
+              "ToolTip": "C:\\Batch_june24\\Csharp\\Assignments\\Assignment 6\\Concession For Travel\\Concession For Travel\\TravelConcession.cs",
+              "RelativeToolTip": "Concession For Travel\\TravelConcession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:45:25.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

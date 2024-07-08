@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Returns list of numbers and their squares\Returns list of numbers and their squares\bin\Debug\Returns list of numbers and their squares.exe.config
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Returns list of numbers and their squares\Returns list of numbers and their squares\bin\Debug\Returns list of numbers and their squares.exe
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Returns list of numbers and their squares\Returns list of numbers and their squares\bin\Debug\Returns list of numbers and their squares.pdb
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Returns list of numbers and their squares\Returns list of numbers and their squares\obj\Debug\Returns list of numbers and their squares.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Returns list of numbers and their squares\Returns list of numbers and their squares\obj\Debug\Returns list of numbers and their squares.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Returns list of numbers and their squares\Returns list of numbers and their squares\obj\Debug\Returns list of numbers and their squares.exe
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Returns list of numbers and their squares\Returns list of numbers and their squares\obj\Debug\Returns list of numbers and their squares.pdb

@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Returns Words\Returns Words\bin\Debug\Returns Words.exe.config
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Returns Words\Returns Words\bin\Debug\Returns Words.exe
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Returns Words\Returns Words\bin\Debug\Returns Words.pdb
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Returns Words\Returns Words\obj\Debug\Returns Words.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Returns Words\Returns Words\obj\Debug\Returns Words.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Returns Words\Returns Words\obj\Debug\Returns Words.exe
+C:\Batch_june24\Csharp\Assignments\Assignment 6\Returns Words\Returns Words\obj\Debug\Returns Words.pdb

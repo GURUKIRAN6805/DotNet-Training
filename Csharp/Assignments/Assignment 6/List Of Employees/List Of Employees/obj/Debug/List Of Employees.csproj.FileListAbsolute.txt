@@ -1,0 +1,7 @@
+C:\Batch_june24\Csharp\Assignments\Assignment 6\List Of Employees\List Of Employees\bin\Debug\List Of Employees.exe.config
+C:\Batch_june24\Csharp\Assignments\Assignment 6\List Of Employees\List Of Employees\bin\Debug\List Of Employees.exe
+C:\Batch_june24\Csharp\Assignments\Assignment 6\List Of Employees\List Of Employees\bin\Debug\List Of Employees.pdb
+C:\Batch_june24\Csharp\Assignments\Assignment 6\List Of Employees\List Of Employees\obj\Debug\List Of Employees.csproj.AssemblyReference.cache
+C:\Batch_june24\Csharp\Assignments\Assignment 6\List Of Employees\List Of Employees\obj\Debug\List Of Employees.csproj.CoreCompileInputs.cache
+C:\Batch_june24\Csharp\Assignments\Assignment 6\List Of Employees\List Of Employees\obj\Debug\List Of Employees.exe
+C:\Batch_june24\Csharp\Assignments\Assignment 6\List Of Employees\List Of Employees\obj\Debug\List Of Employees.pdb
