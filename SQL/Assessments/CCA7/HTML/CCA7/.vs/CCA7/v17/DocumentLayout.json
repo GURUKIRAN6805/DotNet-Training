@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Batch_june24\\SQL\\Assessments\\CCA7\\HTML\\CCA7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{534CD7D6-CCA7-4395-9660-9C887D4CB26C}|CCA7\\CCA7.csproj|c:\\batch_june24\\sql\\assessments\\cca7\\html\\cca7\\cca7\\ordered list of unordered lists.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534CD7D6-CCA7-4395-9660-9C887D4CB26C}|CCA7\\CCA7.csproj|solutionrelative:cca7\\ordered list of unordered lists.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534CD7D6-CCA7-4395-9660-9C887D4CB26C}|CCA7\\CCA7.csproj|c:\\batch_june24\\sql\\assessments\\cca7\\html\\cca7\\cca7\\correcting_the_document.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534CD7D6-CCA7-4395-9660-9C887D4CB26C}|CCA7\\CCA7.csproj|solutionrelative:cca7\\correcting_the_document.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534CD7D6-CCA7-4395-9660-9C887D4CB26C}|CCA7\\CCA7.csproj|c:\\batch_june24\\sql\\assessments\\cca7\\html\\cca7\\cca7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534CD7D6-CCA7-4395-9660-9C887D4CB26C}|CCA7\\CCA7.csproj|solutionrelative:cca7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ordered List of Unordered Lists.html",
+              "DocumentMoniker": "C:\\Batch_june24\\SQL\\Assessments\\CCA7\\HTML\\CCA7\\CCA7\\Ordered List of Unordered Lists.html",
+              "RelativeDocumentMoniker": "CCA7\\Ordered List of Unordered Lists.html",
+              "ToolTip": "C:\\Batch_june24\\SQL\\Assessments\\CCA7\\HTML\\CCA7\\CCA7\\Ordered List of Unordered Lists.html",
+              "RelativeToolTip": "CCA7\\Ordered List of Unordered Lists.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-31T05:57:01.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Correcting_The_Document.html",
+              "DocumentMoniker": "C:\\Batch_june24\\SQL\\Assessments\\CCA7\\HTML\\CCA7\\CCA7\\Correcting_The_Document.html",
+              "RelativeDocumentMoniker": "CCA7\\Correcting_The_Document.html",
+              "ToolTip": "C:\\Batch_june24\\SQL\\Assessments\\CCA7\\HTML\\CCA7\\CCA7\\Correcting_The_Document.html",
+              "RelativeToolTip": "CCA7\\Correcting_The_Document.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-31T05:52:56.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Batch_june24\\SQL\\Assessments\\CCA7\\HTML\\CCA7\\CCA7\\Program.cs",
+              "RelativeDocumentMoniker": "CCA7\\Program.cs",
+              "ToolTip": "C:\\Batch_june24\\SQL\\Assessments\\CCA7\\HTML\\CCA7\\CCA7\\Program.cs",
+              "RelativeToolTip": "CCA7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:50:08.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
