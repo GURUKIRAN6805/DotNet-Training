@@ -1,0 +1,7 @@
+C:\Batch_june24\MiniProject\RailwayReservationSystem\RailwayReservationSystem\bin\Debug\RailwayReservationSystem.exe.config
+C:\Batch_june24\MiniProject\RailwayReservationSystem\RailwayReservationSystem\bin\Debug\RailwayReservationSystem.exe
+C:\Batch_june24\MiniProject\RailwayReservationSystem\RailwayReservationSystem\bin\Debug\RailwayReservationSystem.pdb
+C:\Batch_june24\MiniProject\RailwayReservationSystem\RailwayReservationSystem\obj\Debug\RailwayReservationSystem.csproj.AssemblyReference.cache
+C:\Batch_june24\MiniProject\RailwayReservationSystem\RailwayReservationSystem\obj\Debug\RailwayReservationSystem.csproj.CoreCompileInputs.cache
+C:\Batch_june24\MiniProject\RailwayReservationSystem\RailwayReservationSystem\obj\Debug\RailwayReservationSystem.exe
+C:\Batch_june24\MiniProject\RailwayReservationSystem\RailwayReservationSystem\obj\Debug\RailwayReservationSystem.pdb
