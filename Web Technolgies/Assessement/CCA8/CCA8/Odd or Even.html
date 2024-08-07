@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Odd or Even</title>
+</head>
+<body>
+    <h2>ODD or EVEN</h2>
+    <button onclick="checkOddEven()">CHECK</button>
+    <ul id="oddEvenList"></ul>
+    <script>
+        function checkOddEven()
+        {
+            var list = document.getElementById('oddEvenList');
+            list.innerHTML = ''; 
+            for (var i = 0; i <= 15; i++)
+            {
+                var listItem = document.createElement('li'); 
+                if (i % 2 === 0)
+                {
+                    listItem.textContent = i + " is even"; 
+                }
+                else
+                {
+                    listItem.textContent = i + " is odd"; 
+                }
+                list.appendChild(listItem); 
+            }
+        }
+    </script>
+</body>
+</html>
+
