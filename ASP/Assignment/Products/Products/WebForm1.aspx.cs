@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace ProductApp
+namespace Products
 {
-    public partial class ProductSelection : System.Web.UI.Page 
+    public partial class WebForm1 : System.Web.UI.Page
     {
         private Dictionary<string, (string ImageUrl, decimal Price)> products = new Dictionary<string, (string ImageUrl, decimal Price)>
         {

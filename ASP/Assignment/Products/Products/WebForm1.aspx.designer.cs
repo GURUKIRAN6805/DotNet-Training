@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ProductApp
+namespace Products
 {
 
 
-    public partial class ProductSelection
+    public partial class WebForm1
     {
 
         /// <summary>

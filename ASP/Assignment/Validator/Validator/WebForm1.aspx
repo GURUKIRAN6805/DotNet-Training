@@ -11,31 +11,24 @@
             <label for="txtName">Name:</label>
             <asp:TextBox ID="txtName" runat="server"></asp:TextBox>
             <br />
- 
             <label for="txtFamilyName">Family Name:</label>
             <asp:TextBox ID="txtFamilyName" runat="server"></asp:TextBox>
             <br />
- 
             <label for="txtAddress">Address:</label>
             <asp:TextBox ID="txtAddress" runat="server"></asp:TextBox>
             <br />
- 
             <label for="txtCity">City:</label>
             <asp:TextBox ID="txtCity" runat="server"></asp:TextBox>
             <br />
- 
             <label for="txtZipCode">Zip Code:</label>
             <asp:TextBox ID="txtZipCode" runat="server"></asp:TextBox>
             <br />
- 
             <label for="txtPhone">Phone:</label>
             <asp:TextBox ID="txtPhone" runat="server"></asp:TextBox>
             <br />
- 
             <label for="txtEmail">Email:</label>
             <asp:TextBox ID="txtEmail" runat="server"></asp:TextBox>
             <br />
- 
             <asp:Button ID="btnCheck" runat="server" Text="Check" OnClick="btnCheck_Click" />
         </div>
     </form>
