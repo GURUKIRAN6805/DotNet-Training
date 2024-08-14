@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Batch_june24\\MVC\\Assessement\\MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFD1929-EA59-4D20-84E9-3A39C7822CEF}|MVC\\MVC.csproj|c:\\batch_june24\\mvc\\assessement\\mvc\\mvc\\views\\code\\customerdetailsfororder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EFD1929-EA59-4D20-84E9-3A39C7822CEF}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\code\\customerdetailsfororder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFD1929-EA59-4D20-84E9-3A39C7822CEF}|MVC\\MVC.csproj|c:\\batch_june24\\mvc\\assessement\\mvc\\mvc\\views\\code\\customersingermany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EFD1929-EA59-4D20-84E9-3A39C7822CEF}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\code\\customersingermany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFD1929-EA59-4D20-84E9-3A39C7822CEF}|MVC\\MVC.csproj|c:\\batch_june24\\mvc\\assessement\\mvc\\mvc\\controllers\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFD1929-EA59-4D20-84E9-3A39C7822CEF}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFD1929-EA59-4D20-84E9-3A39C7822CEF}|MVC\\MVC.csproj|c:\\batch_june24\\mvc\\assessement\\mvc\\mvc\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFD1929-EA59-4D20-84E9-3A39C7822CEF}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFD1929-EA59-4D20-84E9-3A39C7822CEF}|MVC\\MVC.csproj|c:\\batch_june24\\mvc\\assessement\\mvc\\mvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8EFD1929-EA59-4D20-84E9-3A39C7822CEF}|MVC\\MVC.csproj|solutionrelative:mvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFD1929-EA59-4D20-84E9-3A39C7822CEF}|MVC\\MVC.csproj|c:\\batch_june24\\mvc\\assessement\\mvc\\mvc\\northwind.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{8EFD1929-EA59-4D20-84E9-3A39C7822CEF}|MVC\\MVC.csproj|solutionrelative:mvc\\northwind.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Batch_june24\\MVC\\Assessement\\MVC\\MVC\\Controllers\\Customers.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\Customers.cs",
+              "ToolTip": "C:\\Batch_june24\\MVC\\Assessement\\MVC\\MVC\\Controllers\\Customers.cs",
+              "RelativeToolTip": "MVC\\Controllers\\Customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:48:45.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerDetailsForOrder.cshtml",
+              "DocumentMoniker": "C:\\Batch_june24\\MVC\\Assessement\\MVC\\MVC\\Views\\Code\\CustomerDetailsForOrder.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Code\\CustomerDetailsForOrder.cshtml",
+              "ToolTip": "C:\\Batch_june24\\MVC\\Assessement\\MVC\\MVC\\Views\\Code\\CustomerDetailsForOrder.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Code\\CustomerDetailsForOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T05:12:09.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersInGermany.cshtml",
+              "DocumentMoniker": "C:\\Batch_june24\\MVC\\Assessement\\MVC\\MVC\\Views\\Code\\CustomersInGermany.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Code\\CustomersInGermany.cshtml",
+              "ToolTip": "C:\\Batch_june24\\MVC\\Assessement\\MVC\\MVC\\Views\\Code\\CustomersInGermany.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Code\\CustomersInGermany.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T05:08:38.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CodeController.cs",
+              "DocumentMoniker": "C:\\Batch_june24\\MVC\\Assessement\\MVC\\MVC\\Controllers\\CodeController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\CodeController.cs",
+              "ToolTip": "C:\\Batch_june24\\MVC\\Assessement\\MVC\\MVC\\Controllers\\CodeController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\CodeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:56:42.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Batch_june24\\MVC\\Assessement\\MVC\\MVC\\Web.config",
+              "RelativeDocumentMoniker": "MVC\\Web.config",
+              "ToolTip": "C:\\Batch_june24\\MVC\\Assessement\\MVC\\MVC\\Web.config",
+              "RelativeToolTip": "MVC\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-14T04:56:42.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Northwind.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Batch_june24\\MVC\\Assessement\\MVC\\MVC\\Northwind.edmx",
+              "RelativeDocumentMoniker": "MVC\\Northwind.edmx",
+              "ToolTip": "C:\\Batch_june24\\MVC\\Assessement\\MVC\\MVC\\Northwind.edmx [Diagram1]",
+              "RelativeToolTip": "MVC\\Northwind.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-14T04:49:40.73Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

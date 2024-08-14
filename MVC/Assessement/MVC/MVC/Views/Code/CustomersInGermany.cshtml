@@ -1,0 +1,22 @@
+﻿<h2>Customers in Germany</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Customer ID</th>
+            <th>Company Name</th>
+            <th>Contact Name</th>
+            <th>City</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in (IEnumerable<MVC.Controllers.Customers>)ViewData.Model)
+        {
+            <tr>
+                <td>@customer.CustomerID</td>
+                <td>@customer.CompanyName</td>
+                <td>@customer.ContactName</td>
+                <td>@customer.City</td>
+            </tr>
+        }
+    </tbody>
+</table>
