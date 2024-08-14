@@ -1,0 +1,36 @@
+﻿@model Movies.Models.Movies
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Movies</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Moviename)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Moviename)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateofRelease)
+        </dt>
+        <dd>
+            @{
+                var formattedDate = Model.DateofRelease.ToString("d");
+            }
+
+            <p>Date of Release: @formattedDate</p>
+
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Mid }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
